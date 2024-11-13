@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Impact of Wildfire-Induced Loss of Soil Organic Matter on Metal Mobility and Bioavailability in Post-Fire Soils
+description: How does wildfire-driven reduction in soil organic matter weaken metal-binding complexation within humic and fulvic acids, potentially increasing the mobililty of contaminants like Ni, Co, and Zn, with implications for water quality and ecosystem health. 
 img: assets/img/12.jpg
 importance: 1
 category: work
